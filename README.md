@@ -8,4 +8,4 @@ Following analysis done on the data:-
   * Moving Average
   * Simple smoothing forecast, its residual analysis and accuracy measure
   * Holts Winter Forecast, its residual analysis and accuracy measure.
-  * Comparision of above mentioned forecast method
+  * Comparison of above mentioned forecast method
